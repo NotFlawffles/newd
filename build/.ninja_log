@@ -1,0 +1,12 @@
+# ninja log v6
+1	333	1727986968936589397	CMakeFiles/newd.dir/src/main.cpp.o	37003f6b8a578757
+1	302	1727804621637269290	CMakeFiles/newd.dir/src/compiler/request.cpp.o	514d7f33beb056ec
+433	512	1727990370450202785	newd	9aedc58c2002f8a5
+1	235	1727978637897571488	CMakeFiles/newd.dir/src/ui/element.cpp.o	2cdc3701f961f471
+1	334	1727892876790984290	CMakeFiles/newd.dir/src/compiler/text/lexer/lexer.cpp.o	dea992f3e1020add
+1	362	1727990370018195953	CMakeFiles/newd.dir/src/compiler/text/parser/parser.cpp.o	8170ed132a716369
+2	391	1727896042308374180	CMakeFiles/newd.dir/src/ui/base.cpp.o	fd6778033f789d95
+1	36	1727966191906730811	CMakeFiles/newd.dir/src/ui/screen.cpp.o	a55d4280cb6560c6
+1	433	1727990370018195953	CMakeFiles/newd.dir/src/ui/viewport.cpp.o	d91e042d7de2616e
+2	329	1727990379522346279	CMakeFiles/newd.dir/src/compiler/text/parser/parser.cpp.o	8170ed132a716369
+329	408	1727990379850351467	newd	9aedc58c2002f8a5

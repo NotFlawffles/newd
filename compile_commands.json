@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/notflawffles/Projects/newd/include",
+      "-c",
+      "-o",
+      "CMakeFiles/newd.dir/src/compiler/text/parser/parser.cpp.o",
+      "/home/notflawffles/Projects/newd/src/compiler/text/parser/parser.cpp"
+    ],
+    "directory": "/home/notflawffles/Projects/newd/build",
+    "file": "/home/notflawffles/Projects/newd/src/compiler/text/parser/parser.cpp",
+    "output": "/home/notflawffles/Projects/newd/build/CMakeFiles/newd.dir/src/compiler/text/parser/parser.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/notflawffles/Projects/newd/include",
+      "-c",
+      "-o",
+      "CMakeFiles/newd.dir/src/ui/viewport.cpp.o",
+      "/home/notflawffles/Projects/newd/src/ui/viewport.cpp"
+    ],
+    "directory": "/home/notflawffles/Projects/newd/build",
+    "file": "/home/notflawffles/Projects/newd/src/ui/viewport.cpp",
+    "output": "/home/notflawffles/Projects/newd/build/CMakeFiles/newd.dir/src/ui/viewport.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/notflawffles/Projects/newd/include",
+      "-c",
+      "-o",
+      "CMakeFiles/newd.dir/src/main.cpp.o",
+      "/home/notflawffles/Projects/newd/src/main.cpp"
+    ],
+    "directory": "/home/notflawffles/Projects/newd/build",
+    "file": "/home/notflawffles/Projects/newd/src/main.cpp",
+    "output": "/home/notflawffles/Projects/newd/build/CMakeFiles/newd.dir/src/main.cpp.o"
+  }
+]

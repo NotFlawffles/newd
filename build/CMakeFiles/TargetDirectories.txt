@@ -1,0 +1,3 @@
+/home/notflawffles/Projects/newd/build/CMakeFiles/newd.dir
+/home/notflawffles/Projects/newd/build/CMakeFiles/edit_cache.dir
+/home/notflawffles/Projects/newd/build/CMakeFiles/rebuild_cache.dir

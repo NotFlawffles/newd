@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "format": "cpp",
+        "cmath": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "tuple": "cpp"
+    }
+}
